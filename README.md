@@ -37,6 +37,13 @@ The CodeQL Coding Standards Bundle supports the following CodeQL query suites:
 - `autosar-audit`: The AUTOSAR queries that are audit queries. An audit query provides information that can aid in a manual review of a guideline with enforcement *non-automated*.
 - `cert-default`: All the supported CERT queries.
 
+## Reporting issues
+
+This project is providing a deployment option for the coding standards queries, but is not in any way involved with the implementation details of those queries.
+Feel free to open issues encountered when deploying this bundle.
+
+However, any issues encountered (e.g., false positives, false negatives, performance) when applying the coding standards queries to your projects should be reported in the CodeQL Coding Standards [issue tracker](https://github.com/github/codeql-coding-standards/issues) when that has been made available.
+
 ## Troubleshooting
 
 An elaborate user manual will be provided when the CodeQL Coding Standards is open sourced.
