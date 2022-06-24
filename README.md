@@ -1,6 +1,7 @@
 # CodeQL Coding Standards Bundle
 
-The CodeQL Coding Standards Bundle is a CodeQL bundle that includes the queries from the matching [CodeQL Coding Standards](https://github.com/github/codeql-coding-standards) project that is be open sourced in July 2022. More information on the CodeQL Coding Standards project can be found in [this](https://github.blog/2022-06-20-adding-support-for-coding-standards-autosar-c-and-cert-c/) blog post.
+The CodeQL Coding Standards Bundle is a CodeQL bundle that includes the queries from the matching [CodeQL Coding Standards](https://github.com/github/codeql-coding-standards) project that is to be open sourced in July 2022.
+More information on the CodeQL Coding Standards project can be found in [this](https://github.blog/2022-06-20-adding-support-for-coding-standards-autosar-c-and-cert-c/) blog post.
 
 The queries implement the guidelines specified in the following standards targeting the projects using C++ revision [14](https://www.iso.org/standard/64029.html):
 - [AUTOSAR - Guidelines for the use of C++14 language in critical and safety-related systems Release 18-10](https://www.autosar.org/fileadmin/user_upload/standards/adaptive/18-10/AUTOSAR_RS_CPP14Guidelines.pdf)
