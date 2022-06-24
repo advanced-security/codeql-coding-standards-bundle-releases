@@ -7,6 +7,8 @@ The queries implement the guidelines specified in the following standards target
 - [MISRA C++:2008](https://www.misra.org.uk)
 - [SEI CERT C++ Coding Standard: Rules for Developing Safe, Reliable, and Secure Systems (2016 Edition)](https://resources.sei.cmu.edu/library/asset-view.cfm?assetID=494932)
 
+The [list of supported rules](./supported_rules_list.csv) lists per standard and rule what query, or queries, implement that rule.
+
 ## How to use the bundle
 
 The bundle can be use with the [Github CodeQL Action](https://github.com/github/codeql-action) by preceding the `github/codeql-action/init@v2` step with the following step:
